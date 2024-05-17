@@ -1,0 +1,64 @@
+body{
+   background-image: url(i.webp);
+    background-size: cover;
+
+}
+.box{
+    color:white;
+    display: flex;
+    justify-content: space-between;
+}
+.box h2{
+    text-align: center;
+}
+h2{
+    
+    
+    margin-top: 15px;
+    margin-left:200px;
+   
+    
+}
+.box2 ul{
+    margin-right: 200px;
+    display: flex;
+    list-style: none;
+
+}
+li a{
+    text-decoration: none;
+    color:rgb(255, 255,255);
+    margin-right: 40px;
+    font-weight: medium;
+    
+}
+a:hover{
+    color:white;
+}
+.big-text{
+    margin-top: 100px;
+    display: flex;
+    color: white;
+}
+.text1{
+    margin-right: 500px;
+    color: white;
+}
+.text1 button{
+    background: linear-gradient(#a6f9f8,#00f2fe);
+  border-radius: 10px;
+}
+.text2 button{
+    background: linear-gradient(#a6f9f8,#00f2fe);
+    border-radius: 10px;
+}
+ hr{
+    background-color:white;
+}
+.text1 p, h3,button{
+    margin-left: 100px;
+}
+.text2 p .h3{
+    margin-right: 50px;
+}
+
